@@ -35,7 +35,7 @@ Pantalla para cargar la tabla de participantes para el sorteo
 ## 🛠️ Tecnologías utilizadas
 
 - Java SE  
-- Librería para lectura de Excel (por ejemplo: Apache POI)  
+- Librería para lectura de Excel (Apache POI)  
 - Colecciones de Java  
 - IDE: IntelliJ IDEA / NetBeans  
 
